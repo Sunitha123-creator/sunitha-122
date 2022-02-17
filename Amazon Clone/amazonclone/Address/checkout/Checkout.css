@@ -1,0 +1,27 @@
+.checkout_body{
+    background-color: #EAEDED;
+    height: 100vh;
+}
+.checkout_container{
+    background-color: white;
+    margin: 25px;
+    width: 70vw;
+}
+.textgap{
+    margin: 5px;
+}
+.placeorder_button{
+    width: 240px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 5px;
+    border:0px;
+    color: black;
+    background-color: #FfD712;
+}
+.button{
+    background-color: #f0c14b;
+    border: 1px solid;
+    margin-top: 30px;
+    border-color: #a88734 #9c7e31 #846a29;
+}
