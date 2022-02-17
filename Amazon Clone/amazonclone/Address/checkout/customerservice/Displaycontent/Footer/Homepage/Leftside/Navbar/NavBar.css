@@ -1,0 +1,123 @@
+.navbar_component{
+    width: 100vw;
+    height: 60px;
+    background-color: #131A22;
+    display: flex;
+}
+.navbar_logo{
+    background:url('https://ik.imagekit.io/amazon12345/amazon-image/sprite_350x_sSQuyXw5dX.png?updatedAt=1639653708564')no-repeat -9px -50px;
+        width: 100px;
+        height: 31px;
+        margin-left:7px;
+        margin-top:15px;
+        
+    }
+    .navbar_locator{
+        display:flex;
+        margin-top:20px;
+        margin-left: 8px;
+        
+    }
+.navbar_location{
+    color: white;
+    font-weight: bold;
+    margin: 0px;
+    
+
+}
+.navbar_locatorImage {
+	background: url('https://ik.imagekit.io/amazon12345/amazon-image/sprite_350x_sSQuyXw5dX.png?updatedAt=1639653708564')no-repeat  -70px -378px;
+	width: 16px;
+	height: 18px;
+    
+}
+.navbar_searchcomponent{
+    display:flex;
+   
+}
+.navbar_searchboxdiv{
+    background-color: #FEBE68;
+    height: 44px;
+    width: 48px;
+    border-radius: 0px 5px 5px 0px;
+    margin-top: 8px;
+}      
+.navbar_searchbox{
+    width:600px;
+    height: 38px;
+    margin-top: 8px;
+  
+}
+.navbar_searchicon{
+    background: url('https://ik.imagekit.io/amazon12345/amazon-image/sprite_350x_sSQuyXw5dX.png?updatedAt=1639653708564') no-repeat -9px -289px;
+	width: 23px;
+	height: 23px;
+    margin: 12px;
+}
+.nav_dropdown{
+    width:60px;
+    height:44px;
+    margin-top: 8px;
+    background-color: #e6e5e5;
+    border-radius: 5px 0px 0px 5px;
+    text-align-last: center;
+    margin-left:15px;
+}
+.navbar_signin{
+  width: 120px;
+  margin-top: 10px;
+  margin-left:35px;
+}
+.navbar_returns{
+ width: 80px;
+ margin-top: 10px;
+ margin-left:5px;
+}
+.navbar_cart{
+    display:flex;
+    margin-top: 15px;
+}
+.navbar_text{
+    color:white;
+}	
+.cart_Image{
+   background: url('https://ik.imagekit.io/amazon12345/amazon-image/sprite_350x_sSQuyXw5dX.png?updatedAt=1639653708564')no-repeat -217px -336px;
+	width: 43px;
+	height:30px;
+    margin-right:-13px;
+}
+.navbar_text_cart{
+    color:white;
+    margin-top: 20px;
+    margin-right:30px;
+    font-weight: bold;
+
+}
+.cart_item{
+    font-weight: bold;
+    position: relative;
+    right: 8px;
+    bottom: -7px;
+    color:#f08805;
+}
+.navbar_footer{
+    width:100vw;
+    height: 35px;
+    background-color:#283131;
+    color: white;
+    display:flex;
+    margin-left:2px;
+    padding-left: 2px;
+}
+.navbar_footer_text{
+    margin:5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 2px;
+}
+.menu{
+    margin-top: 5px;
+    margin-left:7px;
+    padding-right: 2px;
+}
+	
