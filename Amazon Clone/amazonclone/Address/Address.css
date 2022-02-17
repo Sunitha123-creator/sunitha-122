@@ -1,0 +1,46 @@
+.address{
+    background-color: white;
+    padding-top: 10px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.address_container{
+    width: 300px;
+    padding: 5px 20px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightgrey;
+  
+}
+.address_signInButton , .address_registerButton{
+    background-color: #f0c14b;
+    border: 1.5px solid;
+    margin-top: 5px;
+    height: 30px;
+    border-radius: 2px;
+    color: #111;
+    border-color: #a88734 #9c7e31 #846a29;
+    margin-left: 2px;
+
+}
+.address_container p{
+    font-size: 12px;
+}
+
+.address_container >form > h5{
+    margin-bottom: 5px;
+    padding-top: 1px;
+}
+.address_container > form > input{
+    height: 25px;
+    background-color: white;
+    margin-bottom: 10px;
+    width: 98%;
+}
+.text{
+    font-size: 20px;
+    text-decoration-color: lightgreen;
+}
